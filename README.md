@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**ermsharo/ermsharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Olá sou Emílio </h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![enter image description here](https://external-content.duckduckgo.com/iu/?u=https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif&f=1&nofb=1)
+<h3>  Sobre mim  🧑 </h3>
+
+ 
+- 🤔 &nbsp; Explorar novas tecnologias de desenvolvimento web e de computação gráfica
+
+- 🎓 &nbsp; Estudante de Sistemas de informação 
+- 💼 &nbsp; Desenvolvedor front end e as vezes back end 
+
+- 👾 &nbsp; Quando sobra tempo, tento desenvolver meus proprios jogos
+
+
+  
+
+<h3>🛠 Tecnologias que ultilizo</h3>
+
+  
+
+- Linguagens 💻 &nbsp;  | Java | JavaScript | TypeScript | php | HTML | CSS |
+
+- Bibilotecas/Frameworks 📚  | React | Graphql | Jquery | D3js | StyledComponents | Axios 
+- CMS's 📝 Escenic CMS | WordPress
+
+- Banco de dados &nbsp 🗄️ MySQL 
+  
+
+<br>
+</br>
+
