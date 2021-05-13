@@ -25,7 +25,7 @@
 - Bibilotecas/Frameworks 📚  &nbsp;  | React | Graphql | Jquery | D3js | StyledComponents | Axios |
 - CMS's 📝  &nbsp; | Escenic CMS | WordPress |
 
-- Banco de dados 🗄️  &nbsp; | MySQL | 
+- SGBD's 🗄️  &nbsp; | MySQL | 
   
 
 <br>
