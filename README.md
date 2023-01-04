@@ -1,31 +1,44 @@
-
-<h2> Olá sou Emílio </h2>
-
-![Gato usando notebook e movendo o mouse em gif](https://blog.maxieduca.com.br/wp-content/uploads/2020/02/gif-3.gif)
-<h3>  Sobre mim  👨‍💻 </h3>
-
   
-- 🤔 &nbsp; Explorar novas tecnologias de desenvolvimento web e de computação gráfica
-- 🎓 &nbsp; Estudante de Sistemas de informação 
-- 💼 &nbsp; Desenvolvedor web
-- 👾 &nbsp; Quando sobra tempo, tento desenvolver meus próprios jogos
+<h2 align = "center" > Olá sou Emílio </h2>
+
+ <div align="center">
+<a href="https://github.com/ermsharo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ermsharo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermsharo&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+</div>
 
 
-  
+
+<h3 align = "center"> Sobre mim 👨‍💻 </h3>
+
+
+- &nbsp; Desenvolvedor fullstack, tendo atuado em soluções em tecnologia para a área de jornalismo, logística é mensageirias
+- &nbsp; Possuo grande interesse em computação gráfica e na geração procedural de imagens
+- &nbsp; Apesar de não ser meu nicho de trabalho, gosto bastante de trabalhar com softwares de design, video e modelagem 3D
+- &nbsp; Também gosto de desenvolver minhas próprias ideias de jogos nas minhas horas livres
+
+
+<h3 align = "center"> Tecnologias habituais</h3>
+
+
+  ![HTML5](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)&nbsp;![CSS3](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)&nbsp;![Next](https://camo.githubusercontent.com/b7395b00d152dc8f19cec61f582369bd580e31b8ed93d34646ec43aa675baa7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465)&nbsp;![React](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)&nbsp;![React Router](https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465)&nbsp;![Redux](https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)&nbsp;![Sass](https://camo.githubusercontent.com/8849f369ac031cc842a4ab4248c7f7db6a4b593cad1f2d1c01d3aeb6f0f8dca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465)&nbsp;![Styled Components](https://camo.githubusercontent.com/41326de293d3848e2ab0f29bf1680427128757fe6b586ceddf1097cb4eeb5ff7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465)&nbsp;![Bootstrap](https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)&nbsp; ![Material UI](https://camo.githubusercontent.com/2c2e3cab0541596a12e216df86e68fa554256f25826b55a068993a3edfbcd0e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c2d2d55492d3030383143423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c2d7569266c6f676f436f6c6f723d7768697465)&nbsp;  ![Markdown](https://camo.githubusercontent.com/510a057988cb5216f5d297ee202f6a08fa179798926cea28e95910f6b8ca5535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)&nbsp;  ![JavaScript](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)&nbsp;  ![Node.js](https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)&nbsp;  ![TypeScript](https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)&nbsp;  ![Express.js](https://camo.githubusercontent.com/6f61ce982d7a61713d63c947148300012945bd4a4cafb8b9313e2426c5a1f273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3430344435393f7374796c653d666f722d7468652d6261646765)&nbsp;  ![MySQL](https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)&nbsp;  ![PostgreSQL](https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)&nbsp;  ![MongoDB](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)&nbsp;  ![Docker](https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)&nbsp;  ![Sequelize](https://camo.githubusercontent.com/0d610846080795ae30d922708ce41620ee83ca0e7237b130df4297ec1467e5ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73657175656c697a652d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d73657175656c697a65266c6f676f436f6c6f723d626c7565)&nbsp;  ![Json Web Tokens](https://camo.githubusercontent.com/5fff6029f4154d67d92000c1809bdf4d2df21aba75e7f93293680155e561baa4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a736f6e253230776562253230746f6b656e732d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e2d7765622d746f6b656e73266c6f676f436f6c6f723d70696e6b)&nbsp;  ![Jest](https://camo.githubusercontent.com/103e6bf48443918e5505b5bb83fd1d1a4e4edd3484fd1b221355fdbca962fdf5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a657374266c6f676f436f6c6f723d7768697465)&nbsp; ![Git](https://camo.githubusercontent.com/bf10c1a4761f5b5a4a46bf2e29fc7cf179dffd45c99a10fdb749a3b053daf951/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d776869746565)&nbsp;  ![Bash](https://camo.githubusercontent.com/638ebef37d186ebf588b89d5124b1d2151234a3f21293f08b82cbad81cc9ac7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474e55253230426173682d3445414132353f7374796c653d666f722d7468652d6261646765266c6f676f3d474e5525323042617368266c6f676f436f6c6f723d7768697465)&nbsp;![Python](https://img.shields.io/badge/Python-12100E?style=for-the-badge&logo=python) &nbsp; ![Flask](https://img.shields.io/badge/Flask-12100E?style=for-the-badge&logo=flask)&nbsp;![sqlalchemy](https://img.shields.io/badge/sqlalchemy-12100E?style=for-the-badge&logo=sqlalchemy)&nbsp;![pandas](https://img.shields.io/badge/pandas-12100E?style=for-the-badge&logo=pandas)&nbsp;![seaborn](https://img.shields.io/badge/seaborn-12100E?style=for-the-badge&logo=seaborn)&nbsp;![numpy](https://img.shields.io/badge/numpy-12100E?style=for-the-badge&logo=numpy)
+![java](https://img.shields.io/badge/php-12100E?style=for-the-badge&logo=php)  ![wordpress](https://img.shields.io/badge/wordpress-12100E?style=for-the-badge&logo=wordpress)&nbsp;![apollo](https://img.shields.io/badge/apollo-12100E?style=for-the-badge&logo=apollo) ![graphql](https://img.shields.io/badge/graphql-12100E?style=for-the-badge&logo=graphql)&nbsp;![aws](https://img.shields.io/badge/aws-12100E?style=for-the-badge&logo=aws)
 
 
 
-<h3>🛠 Tecnologias habituais 🛠 </h3>
-React.js, Next.js, Python, Flask, Node, javascript, typescript, Java e banco de dados relacionais
-
-<h3>💾&nbsp;  Outras tecnologias que já trabalhei &nbsp;💾</h3>
-php, ruby, C, C#, visual basic
-
-<h3> 📚 &nbsp; Bibliotecas que eu já trabalhei &nbsp;  📚 </h3>
-Graphql, Jquery, D3js, StyledComponents, Axios, material-ui, Bootstrap, Express, sequelize, Scss, Spring, SQLAlchemy, boto, pandas ,react-google-maps, yup, notion-client, react, Jest
-
-<h3> ☁️ &nbsp;  Clouds que já  trabalhei  &nbsp;  ☁️</h3>
-Aws, GoogleCloud 
+<h3 align= "center">&nbsp; Outras tecnologias que já trabalhei &nbsp;</h3>
 
 
-  
+&nbsp;![ruby](https://img.shields.io/badge/ruby-12100E?style=for-the-badge&logo=ruby)&nbsp;![java](https://img.shields.io/badge/java-12100E?style=for-the-badge&logo=java)&nbsp;![R](https://img.shields.io/badge/R-12100E?style=for-the-badge&logo=R)&nbsp;![C](https://img.shields.io/badge/c-12100E?style=for-the-badge&logo=c)&nbsp;
+
+
+
+
+<h3 align= "center">&nbsp; Contato &nbsp;</h3>
+
+<a href = "mailto:ermsharo@gmail.com">
+<img src="https://img.shields.io/badge/linkedin-12100E?style=for-the-badge&logo=linkedin">
+</a><a href = "https://www.linkedin.com/in/emilio-haro-294206a0/">
+<img src="https://img.shields.io/badge/email-12100E?style=for-the-badge&logo=email">
+</a>
