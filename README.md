@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Emilio Haro</h1>
-<p align="center">Senior Fullstack Developer</p>
+<p align="center"> Fullstack Developer</p>
 
 ---
 
